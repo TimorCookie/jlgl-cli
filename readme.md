@@ -14,8 +14,13 @@ npm install jlgl-cli -g
 
 2. 创建页面
 
-   ```shell
+   ```javascript
    jlgl page xx
    ```
 
-   
+3. 检查版本更新
+
+   ```shell
+   jlgl update
+   ```
+
