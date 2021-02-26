@@ -24,3 +24,4 @@ npm install jlgl-cli -g
    jlgl update
    ```
 
+不再维护
